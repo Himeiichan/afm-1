@@ -4,5 +4,13 @@ body {
 
 p {
     font-size: 2rem;
-    font-weight: ;
+    font-weight: bold;
+}
+
+.container1 {
+    background-color: pink;
+}
+
+.container2 {
+    color: blue;
 }
